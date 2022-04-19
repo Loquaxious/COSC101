@@ -1,0 +1,18 @@
+# Number tested and their details:
+2
+2120005,Selime Sziladi,False
+2120003,Zorina Latin,True
+# Number quarantined and their names:
+5
+Rheal Wolfenbarger
+Vallipuram Kortekaas
+Nariko Shiell
+Andrzej Challice
+Meris Dendi
+# Expected result details for quarantined people:
+Rheal Wolfenbarger,None,None
+Vallipuram Kortekaas,None,None
+Nariko Shiell,None,None
+Andrzej Challice,None,None
+Meris Dendi,None,None
+
